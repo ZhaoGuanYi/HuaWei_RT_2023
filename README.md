@@ -8,7 +8,7 @@
   https://blog.csdn.net/weixin_42301220/article/details/124747072
 
 ## 轨迹预测模型
-  ① DWA算法
+  ① DWA算法(参考文献)
   
 https://blog.csdn.net/weixin_42301220/article/details/127769819?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522168199534016800192256136%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=168199534016800192256136&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-127769819-null-null.142^v85^insert_down1,239^v2^insert_chatgpt&utm_term=DWA&spm=1018.2226.3001.4187
 
